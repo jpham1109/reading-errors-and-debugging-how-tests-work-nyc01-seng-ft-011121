@@ -1,5 +1,5 @@
 # Add your variables here
-first_number = 
+first_number = get_variables_from_file
 second_number = 
 sum = first_number + second_number
 difference = first_number - second_number
